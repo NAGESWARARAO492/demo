@@ -1,5 +1,5 @@
 # Common File to be use in All env
 application:
-  name: "sample-app"
+  name: "hello-world-api"
 milestone:
   category: "LOG"
